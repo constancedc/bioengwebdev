@@ -1,0 +1,6 @@
+// Javascript 
+
+Write in the Chrome console 
+
+If you want to change values linked to variables:
+let y=7;
